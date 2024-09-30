@@ -1,0 +1,8 @@
+[package]
+name = "AdaptiveAutosar-Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bindgen = "0.70.1"
+cxx = "1.0.128"
