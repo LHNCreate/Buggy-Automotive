@@ -15,10 +15,6 @@ enum ActivationReturnType {
     Kterminate,        //deterministic execution shall terminate
 }
 
-/// SWS_EM_02541
-///
-/// Represents the execution error
-///
-pub(crate) type ExecutionError = u32;
+
 
 
